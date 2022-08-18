@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>GWDZ</title>
+		<description>a philosophy journal</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>An Implication of the Preface Paradox</title>
+				
+					<dc:creator>GWDZ</dc:creator>
+				
+				
+					<description>&lt;h2 id=&quot;preface-paradox&quot;&gt;Preface Paradox:&lt;/h2&gt;
+</description>
+				
+				<pubDate>Thu, 18 Aug 2022 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/an-implication-of-the-preface-paradox</link>
+				<guid isPermaLink="true">http://localhost:4000/an-implication-of-the-preface-paradox</guid>
+			</item>
+		
+	</channel>
+</rss>

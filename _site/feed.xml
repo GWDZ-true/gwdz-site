@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-18T20:36:39+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GWDZ</title><subtitle>a philosophy journal</subtitle><author><name>GWDZ</name></author><entry><title type="html">An Implication of the Preface Paradox</title><link href="http://localhost:4000/an-implication-of-the-preface-paradox" rel="alternate" type="text/html" title="An Implication of the Preface Paradox" /><published>2022-08-18T00:00:00+08:00</published><updated>2022-08-18T00:00:00+08:00</updated><id>http://localhost:4000/an-implication-of-the-preface-paradox</id><content type="html" xml:base="http://localhost:4000/an-implication-of-the-preface-paradox"><![CDATA[<h2 id="preface-paradox">Preface Paradox:</h2>
+
+<p>Suppose an author has written a book. As she has done due dilligence in checking her sources while writing, for each proposition $p$ in the book, she believes $p$ is true. Nontheless, since the book was long, and knowing that she is fallible, she writes in the preface that there must be at least one mistake in the book.  Though she does not know where this mistake is, she does not believe that the conjunction of every proposition in the book is true.</p>
+
+<p>This scenario leads to a contradiction when we add this principle:</p>
+
+<dl>
+  <dt><strong>Agglomeration Principle:</strong></dt>
+  <dd><br /> If $Bp$ $\land$ $Bq$ then $B(p \land q)$.</dd>
+</dl>
+
+<p>Now let the set of propositions in the book be $A = {p_0 … p_n}$. Having done due dilligence, S believes each proposition $p \in A$ . That is, ($Bp_0 \land … \land Bp_n$). By the agglomeration principle, $B(p_0 \land … \land p_n$). However, as stated in the preface, $\neg B(p_0 \land … \land p_n)$. Contradiction.</p>
+
+<h2 id="implication-of-preface-paradox">Implication of Preface Paradox:</h2>
+
+<p>I argue that the preface paradox entails another undesirable result: that belief is not necessary for knowledge. As the author has done due dilligence in checking her sources while writing, for each proposition $p \in A$, not only does the author believe $p$, the author knows that $p$. That is, $\forall p \in A, Kp$. However, as stated in the preface,$\neg B(p_0 \land … \land p_n)$. By the  Agglomeration Principle, $\neg Bp_0 \lor … \lor \neg Bp_n$. That is, $\exists p \in A: \neg Bp$. Since $A$ is nonempty, $\exists p \in A: \neg Bp \land Kp$.</p>
+
+<p>This result is, however, trivial as it already follows from the original contradiction by explosion.</p>]]></content><author><name>GWDZ</name></author><category term="shower" /><category term="epistemology" /><category term="paradoxes" /><summary type="html"><![CDATA[Preface Paradox:]]></summary></entry></feed>

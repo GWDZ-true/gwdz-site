@@ -1,0 +1,61 @@
+---
+---
+
+@font-face{
+    font-family: iaw;
+    src: url(../fonts/IBMPlexSans-Regular.woff);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: iaw;
+    src: url(../fonts/IBMPlexSans-Italic.woff);
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: iaw;
+    src: url(../fonts/IBMPlexSans-Bold.woff);
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face{
+    font-family: iaw;
+    src: url(../fonts/IBMPlexSans-BoldItalic.woff);
+    font-style: italic;
+    font-weight: bold;
+}
+
+$sans-serif-font-family: "Source Serif Pro", serif;
+$serif-font-family:      "iaw", sans-serif;
+$code-font-family:       "Source Code Pro", monospace;
+
+$body-color:             black;
+$link-color:             cornflowerblue;
+
+$code-background-color:   #f5f5f5;
+$pagination-button-color: #e0e0e0;
+
+$dark-gray-color:        #333;
+$light-gray-color:       dimgrey;
+$extra-light-gray-color: #ccc;
+
+$container-responsive-width: 900px;
+$elements-responsive-width:  30em;
+
+$icon-transition-time: .5s;
+$envelope-color:       #f39c12;
+$twitter-color:        #00aced;
+$instagram-color:      #375989;
+$github-color:         #343434;
+$linkedin-color:       #0073a4;
+$facebook-color:       #3d5b99;
+$pinterest-color:      #bd081c;
+$medium-color:         #00AB6C;
+$codepen-color:        black;
+$rss-color:            #ff6600;
+
+@import "-sections-dir";
