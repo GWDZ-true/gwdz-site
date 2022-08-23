@@ -42,6 +42,7 @@ These two statements are not equivalent. **P** can be true when **Q** is false, 
 : <br /> **R**: If someone tests positive for Covid, then they have Covid.
 : <br /> **S**: If someone tests negative for Covid, then they do not have Covid.
 
+<br />
 **R** is true when the set of people who test positive is completely contained in the set of people with Covid. If you are in the set of people who test positive, then you are also in the set of people who have Covid. However, the set of people who have Covid may also contain some others who tested negative. After all, not everyone with Covid tests positive for Covid. There might be some Covid cases the test fails to pick up (false negatives). Consequently, even if someone tests negative for Covid, they might still have Covid. Hence, **S** will be false.
 
 In the limit, you might even design a (very poor) Covid test that returns negative for everyone, whether they have Covid or not. With this test, no one will test positive for Covid. Consequently, no one will test positive *and* still not have Covid. Hence, no part of the (empty) set of people who test positive will lie beyond the set of people with Covid. This means **R** is true. But if there is at least one Covid case, then **S** would be false.[^2]
