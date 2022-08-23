@@ -20,6 +20,6 @@ Now let the set of propositions in the book be $A = \\{p_0 ... p_n\\}$. Having d
 
 ### An Implication of the Preface Paradox
 
-I argue that the preface paradox entails another undesirable result: that belief is not necessary for knowledge. As the author has diligently checked each source, it is conceivable that for each proposition $p \in A$, the author knows that $p$. That is, $\forall p \in A, Kp$. However, as stated in the preface,$\neg B(p_0 \land ... \land p_n)$. By the  Agglomeration Principle, $\neg Bp_0 \lor ... \lor \neg Bp_n$. That is, $\exists p \in A: \neg Bp$. Since $A$ is nonempty, $\exists p \in A: \neg Bp \land Kp$.
+I argue that the preface paradox entails another undesirable result: belief is not necessary for knowledge. As the author has diligently checked each source, it is conceivable that for each proposition $p \in A$, the author knows that $p$. That is, $\forall p \in A(Kp)$. However, as stated in the preface, $\neg B(p_0 \land ... \land p_n)$. By the  Agglomeration Principle, $\neg Bp_0 \lor ... \lor \neg Bp_n$. That is, $\exists p \in A(\neg Bp)$. Since $A$ is nonempty, $\exists p \in A(\neg Bp \land Kp)$.
 
-This result is, however, trivial as it already follows from the original contradiction by explosion.
+However, this result is trivial as it already follows from the original contradiction by explosion.
