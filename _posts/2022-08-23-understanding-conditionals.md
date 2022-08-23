@@ -29,18 +29,16 @@ Suppose *A* does not like oranges. Can she still raise her hand?
 
 Our five subjects can be trusted, so they will not disobey our instruction to raise their hands if they like oranges. In other words, they will not act in a way that renders statement **P** false:
 
-: <br /> **P**: If a subject likes oranges, then that subject's hand is raised.
+: **P**: If a subject likes oranges, then that subject's hand is raised.
 
-<br />
 However, we did not instruct them not to raise their hand if they do not like oranges. To clarify the difference between the two instructions, let's restate this second instruction as a statement that the subjects must not render false:
 
-: <br /> **Q**: If a subject does not like oranges, that subject's hand is not raised.
+: **Q**: If a subject does not like oranges, that subject's hand is not raised.
 
-<br />
 These two statements are not equivalent. **P** can be true when **Q** is false, and vice versa. To see why, consider an analogous pair of sentences of a similar form:
 
-: <br /> **R**: If someone tests positive for Covid, then they have Covid.
-: <br /> **S**: If someone tests negative for Covid, then they do not have Covid.
+: **R**: If someone tests positive for Covid, then they have Covid.
+: **S**: If someone tests negative for Covid, then they do not have Covid.
 
 **R** is true when the set of people who test positive is completely contained in the set of people with Covid. If you are in the set of people who test positive, then you are also in the set of people who have Covid. However, the set of people who have Covid may also contain some others who tested negative. After all, not everyone with Covid tests positive for Covid. There might be some Covid cases the test fails to pick up (false negatives). Consequently, even if someone tests negative for Covid, they might still have Covid. Hence, **S** will be false.
 
