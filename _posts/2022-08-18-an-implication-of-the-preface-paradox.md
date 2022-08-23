@@ -7,8 +7,6 @@ tags: [epistemology,paradoxes]
 
 ---
 
-### Preface Paradox
-
 Suppose an author has written a book. As she has done due dilligence in checking her sources while writing, for each proposition $p$ in the book, she believes $p$ is true. Nontheless, since the book was long, and knowing that she is fallible, she writes in the preface that there must be at least one mistake in the book.  Though she does not know where this mistake is, she does not believe that the conjunction of every proposition in the book is true.
 
 This scenario leads to a contradiction when we add this principle:
