@@ -68,10 +68,17 @@ table {
   border-collapse: collapse;
   margin-bottom: 30px;
   width: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid black;
 }
 
   th {
-  border: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left: none;
+  border-right: none;
+  border-top: none;
 }
 
   td {
