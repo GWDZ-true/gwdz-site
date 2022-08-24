@@ -4,9 +4,9 @@
 
 body {
   font-family: $serif-font-family;
-  font-size: 19px; // 19
+  //font-size: 19px; // 19
   color: $body-color;
-  line-height: 2rem; // 1.9
+  //line-height: 2rem; // 1.9
 }
 
 @media (max-width: $elements-responsive-width) {
@@ -17,6 +17,12 @@ body {
   body h1 {
     font-size: 19px; //1.5
   }
+}
+
+@media only screen and (max-width: 768px) {
+  body{
+    font-size: 17px;
+  } 
 }
 
 h1{
