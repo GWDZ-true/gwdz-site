@@ -67,7 +67,7 @@ In this scenario, we suspend the social expectation that subjects would not rais
 
 The results I received do not confirm this hypothesis. But they do lend some support:
 
-| Option | Percentage | $n$ |
+| Option | Percentage | *n* |
 |:------|:---------:|:--:|
 |*A* is legal | 12% | 2 |
 |*E* is underage | 19% | 3 |
