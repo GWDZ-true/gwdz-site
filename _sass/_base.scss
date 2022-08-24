@@ -11,16 +11,16 @@ body {
 
 @media (max-width: $elements-responsive-width) {
   body {
-    font-size: 14px;
+    font-size: 17px; // 14
     line-height: 1.5rem;
   }
   body h1 {
-    font-size: 1.5rem;
+    font-size: 1.7rem; //1.5
   }
 }
 
 h1{
-  font-size: 2rem;
+  font-size: 2rem; 
 }
 
 h1 a {
