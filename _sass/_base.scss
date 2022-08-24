@@ -4,15 +4,15 @@
 
 body {
   font-family: $serif-font-family;
-  font-size: 19px;
+  font-size: 40px; // 19
   color: $body-color;
-  line-height: 1.9rem;
+  line-height: 10rem; // 1.9
 }
 
 @media (max-width: $elements-responsive-width) {
   body {
-    font-size: 18px; // 14
-    line-height: 1.8rem;
+    font-size: 40px; // 18
+    line-height: 20rem; // 1.8
   }
   body h1 {
     font-size: 1.7rem; //1.5
