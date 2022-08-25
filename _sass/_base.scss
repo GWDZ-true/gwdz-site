@@ -60,8 +60,8 @@ img {
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
-  border-left: 0.25em solid $dark-gray-color;
-  color: $light-gray-color;
+  border-left: 0.18em solid black;
+  color: $dark-gray-color;
   line-height: 1.7;
 }
 
@@ -100,5 +100,9 @@ th, td {
 }
 
 .footnotes{
-  border-top: 1px solid $dark-gray-color;
+  border-top: 2px solid $dark-gray-color;
+}
+
+.footnotes:before{
+  content: "Footnotes:";
 }
