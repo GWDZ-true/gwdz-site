@@ -12,7 +12,7 @@ Suppose an author has written a book. As she has done due dilligence in checking
 This scenario leads to a contradiction when we add this principle:
 
 **Agglomeration Principle**
-: <br /> If $Bp$ $\land$ $Bq$ then $B(p \land q)$.
+: If $Bp$ $\land$ $Bq$ then $B(p \land q)$.
 
 Now let the set of propositions in the book be $A = \\{p_0 ... p_n\\}$. Having done her due dilligence, the author believes each proposition $p \in A$ . That is, ($Bp_0 \land ... \land Bp_n$). By the agglomeration principle, $B(p_0 \land ... \land p_n$). However, as stated in the preface, $\neg B(p_0 \land ... \land p_n)$. Contradiction.
 
