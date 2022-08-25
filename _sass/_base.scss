@@ -110,6 +110,11 @@ th, td {
   padding-top: 3px;
 }
 
+a.footnotes{
+  text-decoration: none;
+  color: $link-color;
+}
+
 a.footnote {
   color: $link-color;
   text-decoration: none;
