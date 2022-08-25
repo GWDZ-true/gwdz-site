@@ -105,11 +105,12 @@ th, td {
 }
 
 .footnotes{
-  padding-top: 8px;
+  padding-top: 14px;
   border-top: 2px solid $dark-gray-color;
 }
 
 .footnotes:before{
   content: "Footnotes:";
-  padding-top: 5px;
+  text-decoration: bold;
+  padding-top: 3px;
 }
