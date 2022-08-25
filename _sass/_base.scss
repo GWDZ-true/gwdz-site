@@ -123,6 +123,6 @@ a.footnote:after {
     content: "]";
 }
 
-.footnotes:target {
+.footnotes :target {
   background-color: lemonchiffon;
 }
