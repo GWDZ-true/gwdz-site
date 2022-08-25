@@ -60,7 +60,7 @@ img {
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
-  border-left: 0.18em solid black;
+  border-left: 2px solid black;
   color: $dark-gray-color;
   line-height: 1.7;
 }
@@ -105,4 +105,5 @@ th, td {
 
 .footnotes:before{
   content: "Footnotes:";
+  padding-top: 5px;
 }
