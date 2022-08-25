@@ -16,7 +16,7 @@ paginate:            5
 # Build settings
 markdown:            kramdown
 kramdown:
-  footnote_backlink: "△"
+  footnote_backlink: "⇧"
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
