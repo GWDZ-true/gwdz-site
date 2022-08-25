@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
   color: $link-color;
 }
 
@@ -108,11 +108,6 @@ th, td {
   content: "Footnotes:";
   font-weight: bold;
   padding-top: 3px;
-}
-
-.footnote-backlink{
-  text-decoration: none;
-  color: $link-color;
 }
 
 a.footnote {
