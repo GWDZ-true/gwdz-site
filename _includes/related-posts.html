@@ -8,13 +8,11 @@
         {% else %}
           <li>
             <h3>
-              <u>
               <a href="{{ https://site.github.url }}{{ mypost.url }}">
                 {{ mypost.title }}
                 <!--<img src="{{ site.url }}{{ site.baseurl }}/images/{{ mypost.image.teaser }}">-->
                 <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
               </a>
-              </u>
             </h3>
           </li>
           {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
