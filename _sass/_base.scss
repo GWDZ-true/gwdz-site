@@ -109,3 +109,16 @@ th, td {
   font-style: bold;
   padding-top: 3px;
 }
+
+a.footnote {
+  color: $link-color;
+  text-decoration: none;
+}
+
+a.footnote:before {
+ content: "[";
+}
+
+a.footnote:after {
+    content: "]";
+}
