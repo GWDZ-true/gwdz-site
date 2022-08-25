@@ -36,6 +36,11 @@ h1 a {
   color: black;
 }
 
+h1 a:visited {
+  text-decoration: none;
+  color: black;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif-font-family;
   color: $dark-gray-color;
@@ -52,7 +57,7 @@ a:hover {
 }
 
 a:visited {
-  color: Navy;
+  color: RebeccaPurple;
   text-decoration: underline;
 }
 
