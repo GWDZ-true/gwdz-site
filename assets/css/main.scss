@@ -1,37 +1,37 @@
 ---
 ---
 
-/* @font-face{
+@font-face{
     font-family: iaw;
-    src: url(../fonts/IBMPlexSans-Regular.woff);
+    src: url(../Avenir-Roman.woff2);
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face{
     font-family: iaw;
-    src: url(../fonts/IBMPlexSans-Italic.woff);
+    src: url(../Avenur-Oblique.woff2);
     font-style: italic;
     font-weight: normal;
 }
 
 @font-face{
     font-family: iaw;
-    src: url(../fonts/IBMPlexSans-Bold.woff);
+    src: url(../Avenir-Black.woff2);
     font-style: normal;
     font-weight: bold;
 }
 
 @font-face{
     font-family: iaw;
-    src: url(../fonts/IBMPlexSans-BoldItalic.woff);
+    src: url(../Avenir-BlackOblique.woff2);
     font-style: italic;
     font-weight: bold;
 }
-*/
+
 
 $sans-serif-font-family: "Source Serif Pro", serif;
-$serif-font-family:      "Nunito Sans", sans-serif;
+$serif-font-family:      "iaw", sans-serif;
 $code-font-family:       "Source Code Pro", monospace;
 
 $body-color:             black;
