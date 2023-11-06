@@ -39,3 +39,5 @@ During my two years of mandatory military service, I **co-founded and headed a c
 My role as a policy analyst during military service equipped me with a range of skills, from policy drafting to minutes writing. I also learnt to balance the interests of a variety of stakeholders to ensure that policies bring the greatest good to the greatest number. I hope to use these skills for the betterment of fellow philosophy students.
 
 Please get in touch with me at [dw644@cam.ac.uk](mailto:dw644@cam.ac.uk) or 07480889647 if you have any questions or suggestions!
+
+![image-title-here](../assets/img/Manifesto%20Visual.png){:class="img-responsive"}
