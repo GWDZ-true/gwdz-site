@@ -1,4 +1,3 @@
-# Vote George for Student Rep
 
 Hello!
 
